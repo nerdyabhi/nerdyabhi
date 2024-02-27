@@ -34,11 +34,9 @@
   </a>
 </p>
 
-<p align="left">
+<div class ="stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerdyabhi&theme=vue-dark&hide_border=true" alt="nerdyabhi's Streak"/>
-
-![nerdyabhi's Stats](https://github-readme-stats.vercel.app/api?username=nerdyabhi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-<span align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdyabhi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api?username=nerdyabhi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="nerdyabhi's Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdyabhi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="nerdyabhi's Top Languages"/> </span>
 </p>
+</div>
