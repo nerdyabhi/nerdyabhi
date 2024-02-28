@@ -15,6 +15,7 @@
   </a>
 </p>
 
+
 ### Languages and Tools:
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -33,6 +34,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+[![An image of @nerdyabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nerdyabhi)](https://holopin.io/@nerdyabhi)
+
 
 ![nerdyabhi's Stats](https://github-readme-stats.vercel.app/api?username=nerdyabhi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
 <div class ="stats">
