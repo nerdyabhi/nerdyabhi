@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdyabhi&label=Profile%20views&color=0e75b6&style=flat" alt="nerdyabhi" /> </p>
 
-<img  style = "border:2px solid red;" width = "50%" align = "right" src = "https://c.tenor.com/pPKOYQpTO8AAAAAd/tenor.gif">
+<img  style = "border:2px solid aqua;" width = "50%" align = "right" src = "https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif">
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
