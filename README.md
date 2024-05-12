@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Abhi Sharma</h1>
 <h3 align="center">I keep my create and cool stuffs here..</h3>
 
-<img align="right" height="200" src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif"  />
+<img align="right" height="200" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp"  />
 
 ###
 
