@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">💬 Ask me about <span>data structures , algorithms , NerdyStuffs <span> <br><br>📫 How to reach me <a href = "mailto: officeAbhiSharma@gmail.com" > Email Me </a><br><br>⚡ My Code is Bad , but My humour is worse</h4>
+<h4 align="left">💬 Ask me about <b>data structures , algorithms , NerdyStuffs <b> <br><br>📫 How to reach me <a href = "mailto: officeAbhiSharma@gmail.com" > Email Me </a><br><br>⚡ My Code is Bad , but My humour is worse</h4>
 
 ###
 
