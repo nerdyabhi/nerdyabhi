@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **data structures , algorithms , NerdyStuffs**
 
-- 📫 How to reach me ** officeAbhiSharma@gmail.com **
+- 📫 How to reach me **officeAbhiSharma@gmail.com**
 
-- ⚡ ** My humour is bad but my code is worse **
+- ⚡ **My humour is bad but my code is worse**
 
 ###
 
