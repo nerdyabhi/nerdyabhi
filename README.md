@@ -1,3 +1,5 @@
+<img align = "center" src = "banner.jpg" alt = "Hello World" >
+
 <h1 align="center">Hi 👋, I'm Abhi Sharma</h1>
 <h3 align="center">I do cool stuffs here</h3>
 
