@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **officeAbhiSharma@gmail.com**
 
-- ⚡ **My humour is bad but my code is worse**
+- ⚡ **My code is bad but my humour is worse**
 
 ###
 
