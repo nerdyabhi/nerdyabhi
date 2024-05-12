@@ -4,13 +4,11 @@
 
 <h1 align="left">Hey 👋 I do cool stuffs here :) </h1>
 
-###
-
 <img align="right" height="200" src="https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif"  />
 
 ###
 
-<h4 align="left">💬 Ask me about data structures , algorithms , NerdyStuffs<br><br>📫 How to reach me officeAbhiSharma@gmail.com<br><br>⚡ My Code is Bad , but My humour is worse</h4>
+<h4 align="left">💬 Ask me about <span>data structures , algorithms , NerdyStuffs <span> <br><br>📫 How to reach me <a href = "mailto: officeAbhiSharma@gmail.com" > Email Me </a><br><br>⚡ My Code is Bad , but My humour is worse</h4>
 
 ###
 
