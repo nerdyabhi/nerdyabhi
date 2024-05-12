@@ -4,16 +4,19 @@
 <h3 align="center">I do cool stuffs here</h3>
 
 
-<img autoplay  align="right" src="https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif">
+###
 
+<div>
 
-💬 Ask me about data structures , algorithms , NerdyStuffs
+<img align="right" height="150" src="https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif"  />
 
-📫 How to reach me officeAbhiSharma@gmail.com
+###
 
-⚡ My Code is Bad , but My humour is worse
+<h4 align="left">💬 Ask me about data structures , algorithms , NerdyStuffs<br><br>📫 How to reach me officeAbhiSharma@gmail.com<br><br>⚡ My Code is Bad , but My humour is worse</h4>
 
+</div>
 
+###
 
 <div align="center">
 <h1 align = "Center"> Tech Stack I Use :  </h1>
