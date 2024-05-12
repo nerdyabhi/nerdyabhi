@@ -14,7 +14,7 @@
 
 ###
 
-<hr>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thegeekyabhi/" target="_blank">
@@ -27,6 +27,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+
+<hr>
 
 ###
 
@@ -56,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
-
+<hr>
 <h2 align = "left" >  Holopin :  </h2>
 
 [![An image of @nerdyabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nerdyabhi)](https://holopin.io/@nerdyabhi)
