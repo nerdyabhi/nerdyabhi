@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdyabhi&label=Profile%20views&color=0e75b6&style=flat" alt="nerdyabhi" /> </p>
 
-<img loop ="infinite" style = "border:2px solid red;" width = "50%" align = "right" src = "https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif">
+<img  style = "border:2px solid red;" width = "50%" align = "right" src = "https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif">
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
