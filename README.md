@@ -2,7 +2,8 @@
 
 <br clear="both">
 
-<h1 align="left">Hey 👋 I do cool stuffs here :) </h1>
+<h1 align="center">Hi 👋, I'm Abhi Sharma</h1>
+<h3 align="center">I keep my create and cool stuffs here..</h3>
 
 <img align="right" height="200" src="https://www.lambdatest.com/blog/wp-content/uploads/2020/01/ezgif.com-gif-maker.gif"  />
 
