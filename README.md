@@ -3,7 +3,7 @@
 <br clear="both">
 
 <h1 align="center">Hi 👋, I'm Abhi Sharma</h1>
-<h3 align="center">I keep my create and cool stuffs here..</h3>
+<h3 align="center">I keep my cool stuffs here..</h3>
 
 <img align="right" width="400" src="https://c.tenor.com/xtXONS0VR3YAAAAC/singe-monkey.gif"  />
 
