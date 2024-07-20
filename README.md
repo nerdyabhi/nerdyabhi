@@ -7,14 +7,8 @@
 
 ---
 
-I'm a third-year Computer Science student at Netaji Subhash Engineering College. I love solving problems, building innovative projects, and developing impactful web applications.
+I'm a third-year Computer Science student at Netaji Subhash Engineering College. I love solving problems, building innovative projects, and developing web applications that makes an impact.
 
-### About Me
-
-- **Problem Solver**: Passionate about data structures and algorithms.
-
-- **Web Developer**: Exploring the MERN stack and building user-friendly web apps.
-- **Innovator**: Keen on projects that make a real-world difference.
 
 ### Interests
 
