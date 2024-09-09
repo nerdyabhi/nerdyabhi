@@ -3,18 +3,7 @@
 
 ---
 
-<h3 align= "center">Hi there! 👋 </h2>
-
----
-
-I'm a third-year Computer Science student at Netaji Subhash Engineering College. I love solving problems, building innovative projects, and developing web applications that makes an impact.
-
-
-### Interests
-
-- 🚀 **Innovation**: Bringing new ideas to life.
-- 🌟 **Impact**: Creating solutions for real-world problems.
-- 💻 **Web Projects**: Crafting web applications.
+<h3 align= "center">Hey! Abhi Here 👋 </h2>
 
 ### Let's Connect!
 <p align="left" ">
