@@ -10,7 +10,7 @@
 <!-- Skills Section -->
 ## 🛠️ Language and Tools.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,css,tailwind,js,mongo,react,express,postman,git,github,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,css,tailwind,js,mongo,react,express,postman,git,github,bash,linux)](#)
 <table>
   <tr>
     <td valign="top" width="50%">
