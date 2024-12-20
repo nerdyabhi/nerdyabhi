@@ -1,11 +1,7 @@
+![ABHI SHARMA (8)](https://github.com/user-attachments/assets/42c2c118-0f16-42aa-bf7d-bd3e72a7d56f)
+
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F726&width=435&lines=Hello+world%F0%9F%91%8B%2C+I'm+Abhi!;A+passionate+Software+Developer+%F0%9F%92%BB;I+create+user-friendly+applications+%F0%9F%8E%AF;Open+to+collaborations+and+projects+%F0%9F%92%A1)](https://git.io/typing-svg)
-
-<!-- About Me -->
-## About Me
-- 👨‍💻 All of my projects are available at [https://github.com/nerdyabhi](https://github.com/nerdyabhi)
-- 💬 Ask me about **MERN Stack, Algorithms, and Problem Solving**
-- 📫 How to reach me **officeAbhiSharma@gmail.com**
 
 <!-- Skills Section -->
 ## 🛠️ Language and Tools.
