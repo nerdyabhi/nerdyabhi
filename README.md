@@ -8,3 +8,7 @@
 ## 🛠️ Language and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,css,tailwind,js,mongo,react,express,postman,git,github,bash,linux)](#)
 
+## 🤝 Let's Connect 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thegeekyabhi/)
+
+
